@@ -209,3 +209,5 @@ http://stream.eskarock.pl/eskarock.mp3
 http://195.150.20.7:8000/rm_live
 #EXTINF:-1 group-title="Radio",TOK FM
 http://stream.tokfm.pl/tokfm-128.mp3
+#EXTINF:-1 tvg-logo="logo.png" group-title="Radio",Radio Station
+https://example.com/radio-stream.mpd
