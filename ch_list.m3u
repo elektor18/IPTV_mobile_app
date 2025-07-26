@@ -188,3 +188,13 @@ https://cdndai.pl/tvp2hd/index.m3u8
 https://cdndai.pl/tvp1hd/index.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.pl@SD",World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="radio3" tvg-name="BBC Radio 1" group-title="Radio",BBC Radio 1
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 group-title="Radio",BBC Radio 1
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 group-title="Music",Classic FM
+http://media-ice.musicradio.com/ClassicFMMP3
+#EXTINF:-1,Kiss FM Radio
+http://radio-stream-url.com/kiss-fm
+#EXTINF:-1,Power 105.1 FM
+http://radio-stream-url.com/power-fm
