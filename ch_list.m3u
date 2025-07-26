@@ -198,5 +198,3 @@ http://media-ice.musicradio.com/ClassicFMMP3
 http://radio-stream-url.com/kiss-fm
 #EXTINF:-1,Power 105.1 FM
 http://radio-stream-url.com/power-fm
-#EXTINF:-1 group-title="Entertainment" tvg-logo="logo.png",CNN
-http://tv-stream-url.com/cnn
