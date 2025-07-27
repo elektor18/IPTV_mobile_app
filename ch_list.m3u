@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4FunTV.pl@SD" group-title="Entertainment",4 Fun TV (288p) [Not 24/7]
+#EXTINF:-1 tvg-id="4FunTV.pl@SD" group-title="Entertainment",4 Fun TV (288p)
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="AFVFamily.us@Poland" group-title="Entertainment",AFV Family (720p)
 https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8
@@ -11,9 +11,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DAZNWomensFootball.uk@Poland" group-title="Sports",DAZN Women's Football (1080p)
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="dlaCiebietv.pl" group-title="General",dlaCiebie.tv (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="dlaCiebietv.pl" group-title="General",dlaCiebie.tv (1080p)
 http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1 tvg-id="dlaCiebietv.pl" group-title="General",dlaCiebie.tv (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="dlaCiebietv.pl" group-title="General",dlaCiebie.tv (1080p)
 https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Echo24.pl" group-title="News",Echo24 (720p)
 https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
@@ -96,38 +96,6 @@ http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="General",TVP1 (1080p)
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Bialystok.pl" group-title="Regional",TVP 3 Białystok (576p) [Geo-blocked]
-https://cdndai.pl/tvp3bialystoksd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" group-title="Regional",TVP 3 Bydgoszcz (576p) [Geo-blocked]
-https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Gdansk.pl" group-title="Regional",TVP 3 Gdańsk (576p) [Geo-blocked]
-https://cdndai.pl/tvp3gdansksd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl" group-title="Regional",TVP 3 Gorzów Wielkopolski (576p) [Geo-blocked]
-https://cdndai.pl/tvp3gorzowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Katowice.pl" group-title="Regional",TVP 3 Katowice (576p) [Geo-blocked]
-https://cdndai.pl/tvp3katowicesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Kielce.pl" group-title="Regional",TVP 3 Kielce (576p) [Geo-blocked]
-https://cdndai.pl/tvp3kielcesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Krakow.pl" group-title="Regional",TVP 3 Kraków (576p) [Geo-blocked]
-https://cdndai.pl/tvp3krakowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Lodz.pl" group-title="Regional",TVP 3 Łódź (576p) [Geo-blocked]
-https://cdndai.pl/tvp3lodzsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Lublin.pl" group-title="Regional",TVP 3 Lublin (576p) [Geo-blocked]
-https://cdndai.pl/tvp3lublinsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" group-title="Regional",TVP 3 Olsztyn (576p) [Geo-blocked]
-https://cdndai.pl/tvp3olsztynsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Opole.pl" group-title="Regional",TVP 3 Opole (576p) [Geo-blocked]
-https://cdndai.pl/tvp3opolesd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Poznan.pl" group-title="Regional",TVP 3 Poznań (576p) [Geo-blocked]
-https://cdndai.pl/tvp3poznansd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Rzeszow.pl" group-title="Regional",TVP 3 Rzeszów (576p) [Geo-blocked]
-https://cdndai.pl/tvp3rzeszowsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Szczecin.pl" group-title="Regional",TVP 3 Szczecin (576p) [Geo-blocked]
-https://cdndai.pl/tvp3szczecinsd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" group-title="Regional",TVP 3 Warszawa (576p) [Geo-blocked]
-https://cdndai.pl/tvp3warszawasd/index.m3u8
-#EXTINF:-1 tvg-id="TVP3Wroclaw.pl" group-title="Regional",TVP 3 Wrocław (576p) [Geo-blocked]
-https://cdndai.pl/tvp3wroclawsd/index.m3u8
 #EXTINF:-1 tvg-id="TVT.pl" group-title="Local",TVT (720p)
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-id="TVTZgorzelec.pl" group-title="Local",TVT Zgorzelec (576p) [Not 24/7]
@@ -182,10 +150,6 @@ https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
 https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.mpd
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="General",TVP1 (1080i)
 https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8
-#EXTINF:-1 tvg-id="TVP2.pl" group-title="General",TVP2 (1080i) [Geo-blocked]
-https://cdndai.pl/tvp2hd/index.m3u8
-#EXTINF:-1 tvg-id="TVP1.pl" group-title="General",TVP1 (1080i) [Geo-blocked]
-https://cdndai.pl/tvp1hd/index.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.pl@SD" group-title="Sports",World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" group-title="Kids",Baby TV
@@ -212,6 +176,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
 #EXTINF:-1 tvg-id="Nick Pluto TV" tvg-name="Nick Pluto TV" group-title="Kids",Nick Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b58-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3f62f1d-7d8d-4d3f-a141-db9f502deb6b
+#EXTINF:-1 tvg-id="Roya Kids" tvg-name="Roya Kids" group-title="Kids",Roya Kids
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #Radio
 #EXTINF:-1 tvg-id="radio1" group-title="Radio",BBC Radio 1
 https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
