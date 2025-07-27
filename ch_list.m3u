@@ -211,3 +211,19 @@ http://195.150.20.7:8000/rm_live
 http://stream.tokfm.pl/tokfm-128.mp3
 #EXTINF:-1 tvg-logo="logo.png" group-title="Radio",Radio Station
 https://example.com/radio-stream.mpd
+
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" group-title="Kids",Baby TV
+https://stream.live.vc.bbcmedia.co.uk/bbc_cbeebies_hd
+#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Kids",PBS Kids
+https://wowzaprod124-i.akamaihd.net/hls/live/583387/5cb8e9ad/playlist.m3u8
+#EXTINF:-1 tvg-id="Qubo" tvg-name="Qubo (Classic Cartoons)" group-title="Kids",Qubo Channel
+https://dai.google.com/linear/hls/event/1c5JSaRRTn-A5UZ4HGtuRQ/master.m3u8
+#EXTINF:-1 tvg-id="ToonIn" tvg-name="Toon In" group-title="Kids",Toon In
+https://toonin.mux.dev/stream.m3u8
+#EXTINF:-1 tvg-id="PlutoToons" tvg-name="Pluto Toons" group-title="Kids",Pluto TV Toons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0f8e6760eec90007fce29a/master.m3u8?deviceType=web
+#EXTINF:-1 tvg-id="KartoonChannel" tvg-name="Kartoon Channel" group-title="Kids",Kartoon Channel
+https://bcovlive-a.akamaihd.net/5e6e4f993db94504b74d21b6f96802f7/us-east-1/6240731303001/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCartoons" tvg-name="Retro Cartoons" group-title="Kids",Retro Cartoons
+https://stream.ads.ottera.tv/live/retrokids/retrokids/playlist.m3u8
