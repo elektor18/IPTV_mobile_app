@@ -29,6 +29,21 @@ https://cspanlive.cvtvn.com/cspan1/index.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.com" tvg-name="Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Red_Bull_TV_logo.svg/640px-Red_Bull_TV_logo.svg.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 tvg-id="France24EN.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/France_24_logo.svg" group-title="TV-FR",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="DWEN.de" tvg-name="Deutsche Welle English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Deutsche_Welle_Logo_2012.svg" group-title="TV-DE",DW English
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123422/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="RAI.it" tvg-name="RAI Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_RAI_2022.svg" group-title="TV-IT",RAI Italia (state broadcaster)
+# stream placeholder: actual HLS not public
+
+#EXTINF:-1 tvg-id="RTVE.es" tvg-name="RTVE Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_RTVE.svg" group-title="TV-ES",RTVE Spain (public)
+# placeholder – RTVE DTT is free-to-air but online HLS limited
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat (German cultural TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/3sat_Logo.svg" group-title="TV-DE",3sat (free‑to‑air cultural)
+# online restricted geo; terrestrial free‑to‑air :contentReference[oaicite:1]{index=1}
+
 /////////////////////
 //radio
 ///////////////////////
@@ -47,3 +62,17 @@ https://icecast.radiofrance.fr/franceinfo-hifi.aac
 #EXTINF:-1 tvg-id="RAIRadio3Classic.it" tvg-name="RAI Radio 3 Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_Radio3_RAI_2017.svg" group-title="Radio",RAI Radio 3 Classica
 https://icestreaming.rai.it/3.mp3
 
+#EXTINF:-1 tvg-id="BBCWorldService.uk" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BBC_World_Service_2022.svg" group-title="RADIO-UK",BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1 tvg-id="RFIMonde.fr" tvg-name="RFI Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Radio_France_Internationale_logo.svg" group-title="RADIO-FR",Radio France Internationale (RFI Monde)
+# placeholder – streaming URL from RFI :contentReference[oaicite:2]{index=2}
+
+#EXTINF:-1 tvg-id="RNE1.es" tvg-name="RNE Radio Nacional 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/RTVE_Radio_Nacional_de_Espa%C3%B1a_logo.svg" group-title="RADIO-ES",Radio Nacional de España RNE‑1
+# placeholder (livestream public) :contentReference[oaicite:3]{index=3}
+
+#EXTINF:-1 tvg-id="RNEExterior.es" tvg-name="RNE Radio Exterior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Radio_Exterior_de_Espa%C3%B1a_logo.svg" group-title="RADIO-ES",Radio Exterior de España
+# international service :contentReference[oaicite:4]{index=4}
+
+#EXTINF:-1 tvg-id="MulticultFM.de" tvg-name="multicult.fm Berlin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Multicult.fm_logo.png" group-title="RADIO-DE",multicult.fm Berlin (independent public internet)
+https://multicult.fm/stream # example :contentReference[oaicite:5]{index=5}
