@@ -8,12 +8,6 @@ https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/tr
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="https://i.imgur.com/fzcuCXf.png" group-title="Religious",EWTN Poland (1080p)
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/France_24_logo.svg" group-title="News",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Deutsche_Welle_Logo_2012.svg" group-title="News",Deutsche Welle English
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124422/index_1_av-p.m3u8
-
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Al_Jazeera_English_logo.svg/640px-Al_Jazeera_English_logo.svg.png" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
@@ -22,9 +16,6 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="NASA.tv" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science",NASA TV Public Channel
 https://wowza.nasabadge.media/ios/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/C-SPAN_logo.svg" group-title="Politics",C-SPAN 1 (US Politics)
-https://cspanlive.cvtvn.com/cspan1/index.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.com" tvg-name="Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Red_Bull_TV_logo.svg/640px-Red_Bull_TV_logo.svg.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -76,3 +67,6 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 #EXTINF:-1 tvg-id="MulticultFM.de" tvg-name="multicult.fm Berlin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Multicult.fm_logo.png" group-title="RADIO-DE",multicult.fm Berlin (independent public internet)
 https://multicult.fm/stream # example :contentReference[oaicite:5]{index=5}
+
+#EXTINF:-1 tvg-id="RadioMaryja.pl" tvg-name="Radio Maryja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Radio_Maryja_logo.svg" group-title="Polish",Radio Maryja (Polish Catholic)
+http://radiomaryja.fastcast4u.com/tunein/radiomaryja.pls
