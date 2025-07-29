@@ -10,13 +10,27 @@ https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="Euronews.pl" group-title="News",Euronews (720p)
 https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiNDgyYjMzYzEtYmYwYi00NTIzLThlMGMtZGZmY2ZkNjYyMGU1IiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ%3D%3D/26235/euronews-pl.m3u8
 
-#EXTINF:-1 tvg-id="VoxwRytmieHitow.pl" group-title="Music",Vox w Rytmie Hitow (1080i)
-https://s-pl-01.mediatool.tv/playout/vxpl-abr/index.m3u8
-#EXTINF:-1 tvg-id="EskaRockDobrzeRockuje.pl" group-title="Music",Eska Rock Dobrze Rockuje (1080i)
-https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
-#EXTINF:-1 tvg-id="EskaHitynaCzasie.pl" group-title="Music",Eska Hity na Czasie (1080i)
-https://s-pl-01.mediatool.tv/playout/espl-abr/index.m3u8
-#EXTINF:-1 tvg-id="PoradnikZdrowieTV.pl" group-title="Health",Poradnik Zdrowie TV (1080i)
-https://s-pl-01.mediatool.tv/playout/pzpl-abr/index.m3u8
-#EXTINF:-1 tvg-id="MuratorTV.pl" group-title="Lifestyle",Murator TV (1080i)
-https://s-pl-01.mediatool.tv/playout/mupl-abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/cnn.png" group-title="News",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/bbc.png" group-title="News",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_service/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/jazz.png" group-title="radio",Jazz Radio
+https://jazz-radio.ice.infomaniak.ch/jazz-radio.mp3
+
+#EXTINF:-1 tvg-logo="https://example.com/classical.png" group-title="radio",Classical FM
+https://classical-high.rcast.net/stream
+
+
+#EXTINF:-1 tvg-logo="https://example.com/cnn.png" group-title="News",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/bbc.png" group-title="News",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_service/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/jazz.png" group-title="radio",Jazz Radio
+https://jazz-radio.ice.infomaniak.ch/jazz-radio.mp3
+
+#EXTINF:-1 tvg-logo="https://example.com/classical.png" group-title="radio",Classical FM
+https://classical-high.rcast.net/stream
