@@ -1,36 +1,49 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="EWTNPoland.pl" group-title="Religious",EWTN Poland (1080p)
-https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+/////////////////////
+//TV
+/////////////////////
 #EXTINF:-1 tvg-id="TVTrwam.pl" group-title="Religious",TV Trwam (1080p) [Geo-blocked]
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
-#EXTINF:-1 tvg-id="WorldofFreesports.pl" group-title="Sports",World of Freesports (1080p)
-https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews.pl" group-title="News",Euronews (720p)
-https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiNDgyYjMzYzEtYmYwYi00NTIzLThlMGMtZGZmY2ZkNjYyMGU1IiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ%3D%3D/26235/euronews-pl.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/cnn.png" group-title="News",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="https://i.imgur.com/fzcuCXf.png" group-title="Religious",EWTN Poland (1080p)
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/bbc.png" group-title="News",BBC World News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_service/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/France_24_logo.svg" group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/jazz.png" group-title="radio",Jazz Radio
-https://jazz-radio.ice.infomaniak.ch/jazz-radio.mp3
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Deutsche_Welle_Logo_2012.svg" group-title="News",Deutsche Welle English
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124422/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/classical.png" group-title="radio",Classical FM
-https://classical-high.rcast.net/stream
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Al_Jazeera_English_logo.svg/640px-Al_Jazeera_English_logo.svg.png" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="BloombergUSA.us" tvg-name="Bloomberg Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Bloomberg_logo.svg" group-title="News",Bloomberg Global
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/cnn.png" group-title="News",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NASA.tv" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science",NASA TV Public Channel
+https://wowza.nasabadge.media/ios/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/bbc.png" group-title="News",BBC World News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_service/playlist.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/C-SPAN_logo.svg" group-title="Politics",C-SPAN 1 (US Politics)
+https://cspanlive.cvtvn.com/cspan1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/jazz.png" group-title="radio",Jazz Radio
-https://jazz-radio.ice.infomaniak.ch/jazz-radio.mp3
+#EXTINF:-1 tvg-id="RedBullTV.com" tvg-name="Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Red_Bull_TV_logo.svg/640px-Red_Bull_TV_logo.svg.png" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/classical.png" group-title="radio",Classical FM
-https://classical-high.rcast.net/stream
+/////////////////////
+//radio
+///////////////////////
+#EXTINF:-1 tvg-id="BBCWorldService.uk" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BBC_World_Service_2022_%28Alt%29.svg" group-title="Radio",BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1 tvg-id="RadioSwissJazz.ch" tvg-name="Radio Swiss Jazz" tvg-logo="https://www.radioswissjazz.ch/img/layout/logo-rsj.svg" group-title="Radio",Radio Swiss Jazz
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+
+#EXTINF:-1 tvg-id="NPRNews.us" tvg-name="NPR News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/NPR_News_logo.svg" group-title="Radio",NPR News
+https://npr-ice.streamguys1.com/live.mp3
+
+#EXTINF:-1 tvg-id="RadioFranceInfo.fr" tvg-name="France Info" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Franceinfo_logo_2016.svg/512px-Franceinfo_logo_2016.svg.png" group-title="Radio",France Info
+https://icecast.radiofrance.fr/franceinfo-hifi.aac
+
+#EXTINF:-1 tvg-id="RAIRadio3Classic.it" tvg-name="RAI Radio 3 Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_Radio3_RAI_2017.svg" group-title="Radio",RAI Radio 3 Classica
+https://icestreaming.rai.it/3.mp3
+
