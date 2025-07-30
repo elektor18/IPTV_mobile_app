@@ -35,6 +35,35 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123422/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat (German cultural TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/3sat_Logo.svg" group-title="TV-DE",3sat (free‑to‑air cultural)
 # online restricted geo; terrestrial free‑to‑air :contentReference[oaicite:1]{index=1}
 
+#EXTINF:-1 tvg-id="EuronewsEN.fr" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews_logo_2016.svg" group-title="News",Euronews English
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/NHK_World.svg" group-title="News",NHK World
+https://nhkwlive.akamaized.net/hls/live/2003451/nhkwlive_1/master.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Sky_News_logo_2021.svg" group-title="News",Sky News
+https://skynews-sky-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CGTN_logo.svg" group-title="News",CGTN English
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TRT_World_logo.svg" group-title="News",TRT World
+https://trtworldlive.mediacdn.com/trtworld.m3u8
+
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CNA_%28Channel_NewsAsia%29_logo.svg" group-title="News",CNA (Channel NewsAsia)
+https://d3k4x3a4b5moc5.cloudfront.net/live/cna_ott/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/ABC_News_%282010%29.svg" group-title="News",ABC News Australia
+https://abcnews24-i.akamaihd.net/hls/live/575886/abcnews24/master.m3u8
+
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CBC_News_Network_logo.svg" group-title="News",CBC News Network
+https://cbclivedai2-i.akamaihd.net/hls/live/567245/event2/CBCLive/master.m3u8
+
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/SABC_News_logo.svg" group-title="News",SABC News
+https://sabcnews-lh.akamaihd.net/i/sabc1news_1@196618/master.m3u8
+
+#EXTINF:-1 tvg-id=\"TeleSUR.ve\" tvg-name=\"TeleSUR English\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/2e/TeleSUR_logo.svg\" group-title=\"News\",TeleSUR English
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 /////////////////////
 //radio
 ///////////////////////
@@ -70,3 +99,21 @@ https://multicult.fm/stream # example :contentReference[oaicite:5]{index=5}
 
 #EXTINF:-1 tvg-id="RadioMaryja.pl" tvg-name="Radio Maryja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Radio_Maryja_logo.svg" group-title="Polish",Radio Maryja (Polish Catholic)
 http://radiomaryja.fastcast4u.com/tunein/radiomaryja.pls
+
+#EXTINF:-1 tvg-id="DWRadio.de" tvg-name="DW Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Deutsche_Welle_Logo_2012.svg" group-title="Radio",DW Radio
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@123409/index_1_a-p.m3u8
+
+#EXTINF:-1 tvg-id="VOAEnglish.us" tvg-name="Voice of America English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/VOA_Logo.svg" group-title="Radio",Voice of America English
+https://voa-english.streamguys1.com/live.mp3
+
+#EXTINF:-1 tvg-id="RFI.fr" tvg-name="RFI Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Radio_France_Internationale_logo.svg" group-title="Radio",Radio France Internationale (RFI Monde)
+https://live02.rfi.fr/rfimonde-64.mp3
+
+#EXTINF:-1 tvg-id="RNE1.es" tvg-name="RNE Radio Nacional 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/RTVE_Radio_Nacional_de_Espa%C3%B1a_logo.svg" group-title="Radio",Radio Nacional de España RNE‑1
+https://rtvelivestream.akamaized.net/rne/radio1_main.m3u8
+
+#EXTINF:-1 tvg-id="RNEExterior.es" tvg-name="RNE Radio Exterior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Radio_Exterior_de_Espa%C3%B1a_logo.svg" group-title="Radio",Radio Exterior de España
+https://rtvelivestream.akamaized.net/rne/radioexterior_main.m3u8
+
+#EXTINF:-1 tvg-id="MulticultFM.de" tvg-name="multicult.fm Berlin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Multicult.fm_logo.png" group-title="Radio",multicult.fm Berlin
+https://stream.multicult.fm/stream.mp3
