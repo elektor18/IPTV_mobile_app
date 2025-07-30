@@ -98,7 +98,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 https://multicult.fm/stream # example :contentReference[oaicite:5]{index=5}
 
 #EXTINF:-1 tvg-id="RadioMaryja.pl" tvg-name="Radio Maryja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Radio_Maryja_logo.svg" group-title="Polish" radio="true",Radio Maryja (Polish Catholic)
-http://radiomaryja.fastcast4u.com/tunein/radiomaryja.pls
+http://51.68.135.155:80/stream
 
 #EXTINF:-1 tvg-id="DWRadio.de" tvg-name="DW Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Deutsche_Welle_Logo_2012.svg" group-title="Radio",DW Radio
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@123409/index_1_a-p.m3u8
