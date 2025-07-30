@@ -2,10 +2,10 @@
 /////////////////////
 //TV
 /////////////////////
-#EXTINF:-1 tvg-id="TVTrwam.pl" group-title="Religious",TV Trwam (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVTrwam.pl" group-title="Religious",TV Trwam
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 
-#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="https://i.imgur.com/fzcuCXf.png" group-title="Religious",EWTN Poland (1080p)
+#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="https://i.imgur.com/fzcuCXf.png" group-title="Religious",EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Al_Jazeera_English_logo.svg/640px-Al_Jazeera_English_logo.svg.png" group-title="News",Al Jazeera English
