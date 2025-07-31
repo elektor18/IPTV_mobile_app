@@ -16,6 +16,19 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.com" tvg-name="Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Red_Bull_TV_logo.svg/640px-Red_Bull_TV_logo.svg.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-name="PBS Live" group-title="Public TV",PBS Live
+https://i.mjh.nz/PBS/all.m3u8
+
+#EXTINF:-1 tvg-name="Tears of Steel Demo" group-title="Test Streams",Tears of Steel (Demo)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of‑steel.ism/.m3u8
+
+#EXTINF:-1 tvg-name="Apple BipBop Sample" group‑title="Test Streams",Apple BipBop Sample
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-name="Akamai Public Live Test" group‑title="Test Streams",Akamai Live Test
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+
 /////////////////////
 //radio
 ///////////////////////
