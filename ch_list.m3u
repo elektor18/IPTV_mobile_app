@@ -39,9 +39,9 @@ https://icecast.radiofrance.fr/franceinfo-hifi.aac
 #EXTINF:-1 tvg-id="RAIRadio3Classic.it" tvg-name="RAI Radio 3 Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_Radio3_RAI_2017.svg" group-title="Radio",RAI Radio 3 Classica
 https://icestreaming.rai.it/3.mp3
 
-#EXTINF:-1 tvg-id="BBCWorldService.uk" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BBC_World_Service_2022.svg" group-title="RADIO-UK",BBC World Service
+#EXTINF:-1 tvg-id="BBCWorldService.uk" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BBC_World_Service_2022.svg" group-title="RADIO-UK" radio="true",BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
-#EXTINF:-1 tvg-id="RFIMonde.fr" tvg-name="RFI Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Radio_France_Internationale_logo.svg" group-title="RADIO-FR",Radio France Internationale (RFI Monde)
+#EXTINF:-1 tvg-id="RFIMonde.fr" tvg-name="RFI Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Radio_France_Internationale_logo.svg" group-title="RADIO-FR" radio="true",Radio France Internationale (RFI Monde)
 # placeholder – streaming URL from RFI :contentReference[oaicite:2]{index=2}
 
