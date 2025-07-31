@@ -14,56 +14,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="BloombergUSA.us" tvg-name="Bloomberg Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Bloomberg_logo.svg" group-title="News",Bloomberg Global
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-id="NASA.tv" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science",NASA TV Public Channel
-https://wowza.nasabadge.media/ios/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RedBullTV.com" tvg-name="Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Red_Bull_TV_logo.svg/640px-Red_Bull_TV_logo.svg.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="France24EN.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/France_24_logo.svg" group-title="TV-FR",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="DWEN.de" tvg-name="Deutsche Welle English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Deutsche_Welle_Logo_2012.svg" group-title="TV-DE",DW English
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123422/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-id="RAI.it" tvg-name="RAI Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_RAI_2022.svg" group-title="TV-IT",RAI Italia (state broadcaster)
-# stream placeholder: actual HLS not public
-
-#EXTINF:-1 tvg-id="RTVE.es" tvg-name="RTVE Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_RTVE.svg" group-title="TV-ES",RTVE Spain (public)
-# placeholder – RTVE DTT is free-to-air but online HLS limited
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat (German cultural TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/3sat_Logo.svg" group-title="TV-DE",3sat (free‑to‑air cultural)
-# online restricted geo; terrestrial free‑to‑air :contentReference[oaicite:1]{index=1}
-
-#EXTINF:-1 tvg-id="EuronewsEN.fr" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews_logo_2016.svg" group-title="News",Euronews English
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/NHK_World.svg" group-title="News",NHK World
-https://nhkwlive.akamaized.net/hls/live/2003451/nhkwlive_1/master.m3u8
-
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Sky_News_logo_2021.svg" group-title="News",Sky News
-https://skynews-sky-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CGTN_logo.svg" group-title="News",CGTN English
-https://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TRT_World_logo.svg" group-title="News",TRT World
-https://trtworldlive.mediacdn.com/trtworld.m3u8
-
-#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CNA_%28Channel_NewsAsia%29_logo.svg" group-title="News",CNA (Channel NewsAsia)
-https://d3k4x3a4b5moc5.cloudfront.net/live/cna_ott/master.m3u8
-
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/ABC_News_%282010%29.svg" group-title="News",ABC News Australia
-https://abcnews24-i.akamaihd.net/hls/live/575886/abcnews24/master.m3u8
-
-#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CBC_News_Network_logo.svg" group-title="News",CBC News Network
-https://cbclivedai2-i.akamaihd.net/hls/live/567245/event2/CBCLive/master.m3u8
-
-#EXTINF:-1 tvg-id="SABCNews.za" tvg-name="SABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/SABC_News_logo.svg" group-title="News",SABC News
-https://sabcnews-lh.akamaihd.net/i/sabc1news_1@196618/master.m3u8
-
-#EXTINF:-1 tvg-id=\"TeleSUR.ve\" tvg-name=\"TeleSUR English\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/2e/TeleSUR_logo.svg\" group-title=\"News\",TeleSUR English
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 /////////////////////
 //radio
 ///////////////////////
