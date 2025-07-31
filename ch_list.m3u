@@ -45,11 +45,3 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-id="RFIMonde.fr" tvg-name="RFI Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Radio_France_Internationale_logo.svg" group-title="RADIO-FR",Radio France Internationale (RFI Monde)
 # placeholder – streaming URL from RFI :contentReference[oaicite:2]{index=2}
 
-#EXTINF:-1 tvg-id="RNE1.es" tvg-name="RNE Radio Nacional 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/RTVE_Radio_Nacional_de_Espa%C3%B1a_logo.svg" group-title="RADIO-ES",Radio Nacional de España RNE‑1
-# placeholder (livestream public) :contentReference[oaicite:3]{index=3}
-
-#EXTINF:-1 tvg-id="RNEExterior.es" tvg-name="RNE Radio Exterior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Radio_Exterior_de_Espa%C3%B1a_logo.svg" group-title="RADIO-ES",Radio Exterior de España
-# international service :contentReference[oaicite:4]{index=4}
-
-#EXTINF:-1 tvg-id="MulticultFM.de" tvg-name="multicult.fm Berlin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Multicult.fm_logo.png" group-title="RADIO-DE",multicult.fm Berlin (independent public internet)
-https://multicult.fm/stream # example :contentReference[oaicite:5]{index=5}
