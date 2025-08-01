@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epg>
+  <channel id="bbc_world_service">
+    <programme start="01:00" title="BBC News" />
+    <programme start="02:00" title="World Update" />
+    
+  </channel>
+  
+<channel id="TVTrwam.pl" /></epg>
