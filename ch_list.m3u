@@ -2,7 +2,7 @@
 /////////////////////
 //TV
 /////////////////////
-#EXTINF:-1 tvg-id="TVTrwam.pl" group-title="Religious",TV Trwam
+#EXTINF:-1 tvg-id="tvtrwam.pl" group-title="Religious",TV Trwam
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="https://i.imgur.com/fzcuCXf.png" group-title="Religious",EWTN Poland
@@ -44,4 +44,5 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 #EXTINF:-1 tvg-id="RFIMonde.fr" tvg-name="RFI Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Radio_France_Internationale_logo.svg" group-title="Radio" radio="true",Radio France Internationale (RFI Monde)
 # placeholder – streaming URL from RFI :contentReference[oaicite:2]{index=2}
+
 
