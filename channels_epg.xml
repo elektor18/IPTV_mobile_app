@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<epg>
+  <channel id="TV Trwam">
+    <programme start="2:00" end="2:30" title="Warto zauważyć... w mijającym tygodniu" genre="program publicystyczny" />
+    <programme start="2:30" end="3:00" title="Brat Franciszek: Różaniec (3)" genre="serial animowany" />
+    <programme start="3:00" end="3:20" title="Informacje dnia" genre="magazyn informacyjny" />
+    <programme start="3:20" end="4:45" title="Warszawiacy śpiewają (nie)zakazane piosenki" genre="koncert z okazji 81. rocznicy wybuchu powstania warszawskiego" />
+    <programme start="4:45" end="4:55" title="Oświadczenie Fundacji Lux Veritatis w sprawie Muzeum Pamięć i Tożsamość" genre="reportaż" />
+    <programme start="4:55" end="5:00" title="7 sakramentów Kościoła: Ustanowienie Eucharystii (5)" genre="serial dokumentalny" />
+    <programme start="5:00" end="5:20" title="Natura obiektywnie: Z żelaza wykute" genre="program edukacyjny" />
+    <programme start="5:20" end="5:00" title="Wykłady z konferencji naukowej w Trybunale Konstytucyjnym w Warszawie - 08.05.2025: Wpływ orzecznictwa Trybunału Sprawiedliwości Unii Europejskiej na sposób kształtowania ustroju władzy sądowniczej w Polsce w świetle uregulowań traktatowych i Konstytucji RP (6)" genre="program edukacyjny" />
+    <programme start="5:00" end="6:00" title="Mistrz i Katarzynka" genre="film dokumentalny, Pol. 2015" />
+    <programme start="6:00" end="7:25" title="Moja sytuacja jest szczególnie trudna" genre="film dokumentalny, Pol. 2023" />
+    <programme start="7:25" end="7:55" title="Sól ziemi: Światłoczuły" genre="program kulturalny" />
+    <programme start="7:55" end="8:00" title="Kartka z kalendarza - powstanie warszawskie: 2 sierpnia 1944" genre="program edukacyjny" />
+    <programme start="8:00" end="8:15" title="Informacje dnia" genre="magazyn informacyjny" />
+    <programme start="8:15" end="9:00" title="Westerplatte młodych: Jubileusz młodych w Rzymie" genre="program dla młodzieży" />
+    <programme start="9:00" end="10:00" title="Ludzki święty. Św. Alfons Liguori" genre="film dokumentalny, Wł. 2024" />
+    <programme start="10:00" end="10:15" title="Informacje dnia" genre="magazyn informacyjny" />
+    <programme start="10:15" end="10:20" title="Retrospekcja: Przykazania" genre="program publicystyczny" />
+    <programme start="10:20" end="10:35" title="Dzielna niewiasta: Kapłanka domowego ogniska" genre="magazyn poradnikowy" />
+    <programme start="10:35" end="10:40" title="Słowo życia: (Mt 14, 1-12) Śmierć Jana Chrzciciela" genre="rozważanie Ewangelii dnia" />
+    <programme start="10:40" end="11:00" title="Polski punkt widzenia" genre="program publicystyczny" />
+    <programme start="11:00" end="11:20" title="Bogumiła, czyli opowieść o Warszawskiej Syrenie" genre="film animowany, Pol. 2021" />
+    <programme start="11:20" end="12:00" title=""Gorzki to chleb jest polskość" Cyprian Kamil Norwid" genre="program kulturalny" />
+    <programme start="12:00" end="13:30" title="Transmisja: 17. Dziękczynienie w Rodzinie: Msza święta z Sankturarium NMP Gwiazdy Nowej Ewangelizacji i św. Jana Pawła II w Toruniu" genre="transmisja nabożeństwa" />
+    <programme start="13:30" end="15:00" title="Transmisja: 17. Dziękczynienie w Rodzinie: Koncert w wykonaniu góralskiego zespołu Akademia Ciupaga" genre="kultura" />
+    <programme start="15:00" end="15:30" title="Transmisja: 17. Dziękczynienie w Rodzinie: Koronka ku czci Bożego Miłosierdzia" genre="transmisja nabożeństwa" />
+    <programme start="15:30" end="16:15" title="Transmisja: 17. Dziękczynienie w Rodzinie: Koncert w wykonaniu góralskiego zespołu Marsa Alam" genre="kultura" />
+    <programme start="16:15" end="18:00" title="Transmisja: 17. Dziękczynienie w Rodzinie: Koncert w wykonaniu Piotra Jurkiewicza" genre="kultura" />
+    <programme start="18:00" end="20:00" title="Transmisja: 17. Dziękczynienie w Rodzinie: Koncert w wykonaniu śpiewającej rodziny Kaczmarków" genre="kultura" />
+    <programme start="20:00" end="20:20" title="Informacje dnia" genre="magazyn informacyjny" />
+    <programme start="20:20" end="20:25" title="7 sakramentów Kościoła: Prawdziwa obecność Jezusa w Eucharystii (6)" genre="serial dokumentalny" />
+    <programme start="20:25" end="22:00" title="Jubileusz młodych w Rzymie: Czuwanie z Papieżem Leonem XIV" genre="program religijny" />
+    <programme start="22:00" end="22:15" title="Warto być ojcem: Mężczyzna - strażnik wiary w domu (6)" genre="magazyn poradnikowy" />
+    <programme start="22:15" end="23:00" title="Głos serca: Dym nad wodą (94)" genre="serial obyczajowy" />
+    <programme start="23:00" end="23:20" title="Odpowiedzialni za Kościół: Pamięć o bohaterach wiecznie żywa" genre="cykl reportaży" />
+    <programme start="23:20" end="23:30" title="Muzyczne chwile" genre="program kulturalny" />
+    <programme start="23:30" end="0:00" title="Czy udało się zabić prawdę" genre="film dokumentalny, Pol. 1994" />
+    <programme start="0:00" end="0:05" title="Słowo życia: (Mt 14, 1-12) Śmierć Jana Chrzciciela" genre="rozważanie Ewangelii dnia" />
+    <programme start="0:05" end="0:10" title="Świat w obrazach" genre="magazyn informacyjny" />
+    <programme start="0:10" end="0:30" title="Informacje dnia" genre="magazyn informacyjny" />
+    <programme start="0:30" end="2:00" title="Transmisja: 17. Dziękczynienie w Rodzinie: Msza święta z Sankturarium NMP Gwiazdy Nowej Ewangelizacji i św. Jana Pawła II w Toruniu" genre="transmisja nabożeństwa" />
+    <programme start="2:00" end="3:30" title="Transmisja: 17. Dziękczynienie w Rodzinie: Koncert w wykonaniu góralskiego zespołu Akademia Ciupaga" genre="kultura" />
+    <programme start="3:30" end="5:00" title="Jubileusz młodych w Rzymie: Czuwanie z Papieżem Leonem XIV" genre="program religijny" />
+    <programme start="5:00" end="05:30" title="Mistrz i Katarzynka" genre="film dokumentalny, Pol. 2015" />
+  </channel>
+</epg>
