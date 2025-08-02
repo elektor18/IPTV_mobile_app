@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <epg>
-  <channel id="TV Trwam">
+  <channel id="tvtrwam.pl">
     <programme start="2:00" end="2:30" title="Warto zauważyć... w mijającym tygodniu" genre="program publicystyczny" />
     <programme start="2:30" end="3:00" title="Brat Franciszek: Różaniec (3)" genre="serial animowany" />
     <programme start="3:00" end="3:20" title="Informacje dnia" genre="magazyn informacyjny" />
@@ -46,3 +46,4 @@
     <programme start="5:00" end="05:30" title="Mistrz i Katarzynka" genre="film dokumentalny, Pol. 2015" />
   </channel>
 </epg>
+
