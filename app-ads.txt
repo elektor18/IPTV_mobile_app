@@ -1,0 +1,9 @@
+# =========================
+# Start.io Publisher entry
+# =========================
+start.io, 150180916, DIRECT
+
+# =========================
+# AdMob Publisher entry
+# =========================
+google.com, pub-7387832836782757, DIRECT, f08c47fec0942fa0
