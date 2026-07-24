@@ -1,5 +1,13 @@
 {
-  "version": "3.0.2",
-  "notes": "Added recording scheduler function, Sleep timer and other IPTV stability improvements you will love it :)",
-  "url": "https://github.com/elektor18/IPTV_mobile_app/releases/latest/download/app-release.apk"
+  "version": "3.0.3",
+  "notes": "Major UltraIPTV update:
+
+• Improved stability when loading large playlists and during first startup
+• Fixed unexpected exits when returning from playback
+• More reliable Scheduled DVR recordings with new health checks
+• New in-player audio language and subtitle selection
+• Subtitle controls now appear only when tracks are available
+• Safe startup recovery after interrupted launches
+• Improved Live TV source selection and NAS/SMB tools
+• General performance, navigation and reliability fixes",
 }
