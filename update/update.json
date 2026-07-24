@@ -1,5 +1,5 @@
 {
   "version": "3.0.3",
   "notes": "Major UltraIPTV update:\n\n• Improved stability when loading large playlists and during first startup\n• Fixed unexpected exits when returning from playback\n• More reliable Scheduled DVR recordings with new health checks\n• New in-player audio language and subtitle selection\n• Subtitle controls now appear only when tracks are available\n• Safe startup recovery after interrupted launches\n• Improved Live TV source selection and NAS/SMB tools\n• General performance, navigation and reliability fixes",
-  "url": "https://play.google.com/store/apps/details?id=com.robertsz.iptv"
+  "url": "https://play.google.com/store/apps/details?id=com.robertsz.iptv" 
 }
